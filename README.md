@@ -55,3 +55,6 @@ Orden
  |_domain/ (Cliente, Producto, ItemOrden, Orden)
  |_service/ (LavanderiaService)
  |_app/ (Main - flujo de consola)
+
+------Diseño-----
+en assets estara el uml 
